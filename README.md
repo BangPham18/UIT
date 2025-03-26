@@ -14,6 +14,10 @@ Bộ dữ liệu bao gồm nhiều tệp CSV, json chứa văn bản, chú thíc
 - Trích xuất đặc trung văn bản từ những câu trong hình ảnh.
 - Trích xuất đặc trưng hình ảnh bằng các mô hình học sâu.
 - Hợp nhất các đặc trưng thành một tập dữ liệu chung.
+Một số ví dụ về label và image:
+![image](https://github.com/user-attachments/assets/afb14609-effa-49ff-a637-af3a17b17cbd)
+
+![0a27eabeec7605f4bfe66ae77a73bb1f16647a2b312ae8df7dbeceaca31b087e](https://github.com/user-attachments/assets/dc9e3075-e868-44d3-970d-b868f6393fed)
 
 ## Huấn Luyện Mô Hình
 Mô hình phân loại châm biếm được xây dựng bằng cách kết hợp các đặc trưng từ văn bản và hình ảnh. Các bước thực hiện gồm:
